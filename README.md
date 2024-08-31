@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![tumblr_e64428e5b5ad52588860b76907b8272a_787a9a33_2048](https://github.com/user-attachments/assets/4790e92a-f237-4f5f-9a55-fefd0c0fa53a)" width="800">
+  <img src="https://github.com/user-attachments/assets/4790e92a-f237-4f5f-9a55-fefd0c0fa53a" width="800">
 </p>
 
 <p align="center"> 
