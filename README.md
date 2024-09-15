@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-<img src="[https://github.com/user-attachments/assets/1ca48270-7cef-4eba-a77e-56b341a1f07a](https://github-production-user-asset-6210df.s3.amazonaws.com/174850294/363380225-1ca48270-7cef-4eba-a77e-56b341a1f07a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240915%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240915T050530Z&X-Amz-Expires=300&X-Amz-Signature=909e3b85721bc106539ebca1edecd277c70b7390e9995aa727568ccf78d2ad27&X-Amz-SignedHeaders=host&actor_id=174850294&key_id=0&repo_id=850139077)">
+<img src="https://github.com/user-attachments/assets/1ca48270-7cef-4eba-a77e-56b341a1f07a">
 </p>
 
  <p align="center">
