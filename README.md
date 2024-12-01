@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb8d044a-5bb1-402b-a9c5-ba75ea324255" width="500">
+  <img src="https://github.com/user-attachments/assets/367302f1-ac74-4793-865b-4d7db8142154" width="500">
 </p>
 
  <p align="center">
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/425db38e-08e3-4eff-b013-993d6a2f03ce" width="300">
+  <img src="https://github.com/user-attachments/assets/240ffcc9-bd43-48d1-81a9-a7a0f11e99d7" width="300">
 </p>
 
 <p align="center"> $\text{\color{#f59f00}{ - Our pronouns are They/Them plurally, if someone else is fronting, please ask what they'd prefer to use! }}$ </p>
@@ -34,14 +34,14 @@
 <p align="center"> $\text{\color{#e67700}{ - If one of us asks you to leave us alone, fuck off! }}$ </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/425db38e-08e3-4eff-b013-993d6a2f03ce" width="300">
+  <img src="https://github.com/user-attachments/assets/240ffcc9-bd43-48d1-81a9-a7a0f11e99d7" width="300">
 </p>
 
 <p align="center"> $\text{\color{#ffe066}{ If we are in cosplay, or roleplaying, you are welcome to join in! System skins will always be tagged with SYS or IRL. }}$</p>
 <p align="center"> $\text{\color{#ffe066}{ If we are busy, you are welcome to shoot us a whisper! We'll respond when we can <3 }}$</p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb8d044a-5bb1-402b-a9c5-ba75ea324255" width="500">
+  <img src="https://github.com/user-attachments/assets/367302f1-ac74-4793-865b-4d7db8142154" width="500">
 </p>
 
  <p align="center">
@@ -59,4 +59,11 @@
 <!-- ![leaves](https://github.com/user-attachments/assets/fb8d044a-5bb1-402b-a9c5-ba75ea324255)
 ![sunset](https://github.com/user-attachments/assets/22d4c002-071c-479f-8436-df8986f47231)
 ![363378940-57fed5fd-25a9-454c-b0ab-a552f51793d2](https://github.com/user-attachments/assets/425db38e-08e3-4eff-b013-993d6a2f03ce)
-![clouds](https://github.com/user-attachments/assets/df63aa30-c881-43b1-8cd0-544ac96d024f) -->
+![clouds](https://github.com/user-attachments/assets/df63aa30-c881-43b1-8cd0-544ac96d024f) 
+
+yknow what. Here's the transparent images too? Hope this one will work
+Sunshine first, Leaves second
+
+![363378940-57fed5fd-25a9-454c-b0ab-a552f51793d2](https://github.com/user-attachments/assets/240ffcc9-bd43-48d1-81a9-a7a0f11e99d7)
+![363382475-7ee0fff3-e56c-456e-bc35-d333162b264d](https://github.com/user-attachments/assets/367302f1-ac74-4793-865b-4d7db8142154)
+-->
