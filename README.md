@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7df2d301-ddf5-4e26-af58-5348333e604e" width="800">
 </p>
-![leaves](https://github.com/user-attachments/assets/fb8d044a-5bb1-402b-a9c5-ba75ea324255)
+<!-- ![leaves](https://github.com/user-attachments/assets/fb8d044a-5bb1-402b-a9c5-ba75ea324255)
 ![sunset](https://github.com/user-attachments/assets/22d4c002-071c-479f-8436-df8986f47231)
 ![363378940-57fed5fd-25a9-454c-b0ab-a552f51793d2](https://github.com/user-attachments/assets/425db38e-08e3-4eff-b013-993d6a2f03ce)
-![clouds](https://github.com/user-attachments/assets/df63aa30-c881-43b1-8cd0-544ac96d024f)
+![clouds](https://github.com/user-attachments/assets/df63aa30-c881-43b1-8cd0-544ac96d024f) -->
