@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://github.com/user-attachments/assets/1ca48270-7cef-4eba-a77e-56b341a1f07a">
+<img src="https://github.com/user-attachments/assets/df63aa30-c881-43b1-8cd0-544ac96d024f">
 </p>
 
  <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ee0fff3-e56c-456e-bc35-d333162b264d" width="500">
+  <img src="https://github.com/user-attachments/assets/fb8d044a-5bb1-402b-a9c5-ba75ea324255" width="500">
 </p>
 
  <p align="center">
@@ -25,7 +25,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/57fed5fd-25a9-454c-b0ab-a552f51793d2" width="300">
 </p>
-
 
 <p align="center"> $\text{\color{#f59f00}{ - Our pronouns are They/Them plurally, if someone else is fronting, please ask what they'd prefer to use! }}$ </p>
 <p align="center"> $\text{\color{#f59f00}{ - You're welcome to stop by and say hello, just please be respectful!}}$ </p>
@@ -56,3 +55,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7df2d301-ddf5-4e26-af58-5348333e604e" width="800">
 </p>
+![leaves](https://github.com/user-attachments/assets/fb8d044a-5bb1-402b-a9c5-ba75ea324255)
+![sunset](https://github.com/user-attachments/assets/22d4c002-071c-479f-8436-df8986f47231)
+![363378940-57fed5fd-25a9-454c-b0ab-a552f51793d2](https://github.com/user-attachments/assets/425db38e-08e3-4eff-b013-993d6a2f03ce)
+![clouds](https://github.com/user-attachments/assets/df63aa30-c881-43b1-8cd0-544ac96d024f)
